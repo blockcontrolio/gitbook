@@ -36,10 +36,3 @@ BlockControl integrates with **Dfns** (Wallet-as-a-Service provider) for MPC-bas
 REST API with full Swagger documentation, async event processing, webhooks, and Java SDK for integration with existing banking core systems.
 
 ---
-
-## Milestone Roadmap
-
-| Milestone | Focus | Status |
-|---|---|---|
-| **M01** | Core platform: EMT lifecycle, transfer engine, RBAC, dashboard, MPC integration | In Progress |
-| **M02** | Integration: API framework, webhooks, async API, SDK, developer portal, admin panel | Planned |
